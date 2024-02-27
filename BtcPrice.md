@@ -23,4 +23,4 @@ Imagine what will happen if there is a sudden cosmic storm that interrupts elect
 
 By now you have probably already known what is the next question to ask: what happens when the block subsidy goes to zero? Is the bitcoin network less valuable in the future when the subsidy disappears? Probably not. Then where are the missing values of the BTC blockchain after the subsidy pool has dried up? 
 
-[Back](Readme.md)
+[Prev](README.md)
