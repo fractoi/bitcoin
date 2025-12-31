@@ -1,4 +1,4 @@
-# The Missing Value of the Bitcoin Network
+# The Value Shift of the Bitcoin Network
 
 The bitcoin blockchain is the first crypto blockchain network, created by Satoshi Nakamoto, and it has been running non-stop since 2010. The bitcoin network consists of thousands of independent node operators (miners), who run server nodes, validate blocks and produce (or mine) new blocks. A reward scheme was designed so that each new block's builder is rewarded with a 'block subsidy', in the form of new bitcoin tokens (BTC). Namely, after a node operator has mined a new block by solving a mathematical puzzle, and consequently added a new block to the blockchain, a predetermined amount of BTC is generated and rewarded to that miner. The amount of subsidized BTC is not kept constant, but rather desiged to be halved roughly every four years (known as reward era). 
 
